@@ -1,0 +1,14 @@
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.AssemblyInfoInputs.cache
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.AssemblyInfo.cs
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.csproj.CoreCompileInputs.cache
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\bin\Debug\net8.0\ProjektiKursitNaser.exe
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\bin\Debug\net8.0\ProjektiKursitNaser.deps.json
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\bin\Debug\net8.0\ProjektiKursitNaser.runtimeconfig.json
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\bin\Debug\net8.0\ProjektiKursitNaser.dll
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\bin\Debug\net8.0\ProjektiKursitNaser.pdb
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.dll
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\refint\ProjektiKursitNaser.dll
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.pdb
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ProjektiKursitNaser.genruntimeconfig.cache
+C:\Users\hazir\OneDrive\Desktop\C#Projects\ProjektiCursit(Naser)\obj\Debug\net8.0\ref\ProjektiKursitNaser.dll
